@@ -1,1 +1,15 @@
+Bug Report
 
+Bug ID:
+
+Bug Name:
+Summary:
+
+Sabmit Date:
+Reporter:
+
+Platform:
+Operating System:
+Browser:
+
+URL:
